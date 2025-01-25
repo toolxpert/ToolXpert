@@ -32,7 +32,7 @@ To install and use the tools, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/[your-repository-name].git](https://github.com/toolxpert/ToolXpert.git)
+    git clone [https://github.com/https://github.com/toolxpert/ToolXpert.git
     ```
 
 2. Navigate to the project directory:
