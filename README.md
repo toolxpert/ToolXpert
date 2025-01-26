@@ -80,7 +80,7 @@ Les modifications de ce projet ne sont autorisées que si elles respectent les c
 
 ### Contact
 
-Pour toute question concernant l'utilisation de ce projet ou pour demander une autorisation, veuillez contacter l'auteur à l'adresse suivante : [votre-email@example.com].
+Pour toute question concernant l'utilisation de ce projet ou pour demander une autorisation, veuillez rejoindre le serveur suivant https://discord.gg/rNqwkRAs  .
 
 ---
 
